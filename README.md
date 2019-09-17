@@ -24,7 +24,7 @@ Project 소개
 2019년 9월 16일 ~ 9월 17일 프로젝트 개발
 
 sample
-
+![샘플](https://user-images.githubusercontent.com/51254674/65006568-62c83b00-d93e-11e9-84f7-88a008897160.PNG)
 기능
 
 Next Plan

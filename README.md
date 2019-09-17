@@ -26,6 +26,10 @@ Project 소개
 sample
 ![샘플](https://user-images.githubusercontent.com/51254674/65006568-62c83b00-d93e-11e9-84f7-88a008897160.PNG)
 기능
+![1](https://user-images.githubusercontent.com/51254674/65006657-b76bb600-d93e-11e9-96de-bee227dd8657.PNG)
+![2](https://user-images.githubusercontent.com/51254674/65006681-c8b4c280-d93e-11e9-8c8a-cd7935f66dc0.PNG)
+![3](https://user-images.githubusercontent.com/51254674/65008471-724a8280-d944-11e9-8ecb-68695aa28fa2.PNG)
+![4](https://user-images.githubusercontent.com/51254674/65008499-84c4bc00-d944-11e9-8511-a3b043e4f073.PNG)
 
 Next Plan
 
